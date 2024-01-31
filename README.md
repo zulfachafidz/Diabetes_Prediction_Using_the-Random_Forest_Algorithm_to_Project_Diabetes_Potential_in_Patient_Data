@@ -33,6 +33,6 @@ Precision: 79%
 Recall: 77%
 F1-Score: 78%
 ### 5. Identifikasi Variable yang Berpengaruh Terhadap Diabetes
-Feature Importance menggunakan Random Forest menunjukkan bahwa variabel yang paling berpengaruh adalah Glukosa.
+Feature Importance using Random Forest shows that the most influential variable is Glucose.
 
-Kesimpulan: Pasien yang memiliki gula darah tinggi berpotensi lebih besar untuk terkena penyakit diabetes
+Conclusion: Patients who have high blood sugar have a greater potential for developing diabetes.
