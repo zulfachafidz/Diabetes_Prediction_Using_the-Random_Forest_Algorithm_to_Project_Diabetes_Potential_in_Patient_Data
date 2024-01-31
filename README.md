@@ -32,7 +32,7 @@ Accuracy: 72%
 Precision: 79%
 Recall: 77%
 F1-Score: 78%
-### 5. Identifikasi Variable yang Berpengaruh Terhadap Diabetes
+### 5. Identify Variables That Influence Diabetes
 Feature Importance using Random Forest shows that the most influential variable is Glucose.
 
 Conclusion: Patients who have high blood sugar have a greater potential for developing diabetes.
